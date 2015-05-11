@@ -1,0 +1,9 @@
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.pdb
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+C:\Users\Web App Develop .Net\Desktop\dot net\6.5.15\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
